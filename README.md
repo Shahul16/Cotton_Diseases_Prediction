@@ -4,3 +4,7 @@ In this dataset we are provided with images that belong to 4 classes : diseased 
 
 
 linkedin.com/in/shahul16
+
+
+Data Sets Link 
+https://www.kaggle.com/datasets/shahul16/cotton-disease-prediction-data
